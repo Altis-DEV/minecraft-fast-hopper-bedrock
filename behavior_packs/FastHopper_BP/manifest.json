@@ -3,7 +3,7 @@
   "header": {
     "name": "Fast Hopper BP",
     "description": "Adds a Fast Hopper block",
-    "uuid": "PUT-NEW-UUID-HERE-1",
+    "uuid": "89db55ea-2781-11f1-9029-325096b39f47",
     "version": [1, 0, 0],
     "min_engine_version": [1, 21, 80]
   },
@@ -11,7 +11,7 @@
     {
       "type": "script",
       "language": "javascript",
-      "uuid": "PUT-NEW-UUID-HERE-2",
+      "uuid": "89db555e-2781-11f1-8908-325096b39f47",
       "version": [1, 0, 0],
       "entry": "scripts/main.js"
     }
